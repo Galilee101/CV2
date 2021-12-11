@@ -17,7 +17,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.3rem;
   color: #b9a3fa;
-  font-weight: normal;
+  font-weight: bold;
   padding-bottom: 10px;
 }
 
@@ -70,19 +70,19 @@ a:hover {
 }
 
 .galilee-profile {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
 }
 
 
 .cute-dog {
-  width: 25%;
+  width: 30%;
   float: right;
   margin-left: 30px;
 }
 
 .boyfriend {
-  width: 25%;
+  width: 30%;
   float: left;
   margin-right: 30px
 }
@@ -98,7 +98,7 @@ a:hover {
 }
 
 .intro{
-  width: 30%;
+  width: 35%;
   margin:auto;
 }
 .skills {
